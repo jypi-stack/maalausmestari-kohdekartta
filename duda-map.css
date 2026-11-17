@@ -70,3 +70,7 @@
 #mm-kohdekartta#mm-kohdekartta .project-panel .mm-filter-title{margin:4px 0 14px}
 
 #mm-kohdekartta#mm-kohdekartta .location-note{margin-top:14px}
+
+#mm-kohdekartta#mm-kohdekartta #mm-location-status{font-size:12px!important;line-height:1.35;padding:6px 6px 6px 10px;left:12px;right:auto;max-width:calc(100% - 24px);bottom:62px;border-radius:7px}
+#mm-kohdekartta#mm-kohdekartta #mm-location-status span{padding-top:3px}
+#mm-kohdekartta#mm-kohdekartta .mm-loc-close{width:24px;height:24px;min-height:24px;font-size:16px}
