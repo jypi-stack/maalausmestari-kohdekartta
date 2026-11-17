@@ -1,0 +1,11 @@
+Detailed basemap: OpenFreeMap vector tiles, OpenMapTiles schema, OpenStreetMap data (ODbL).
+https://openfreemap.org/
+https://openmaptiles.org/
+https://www.openstreetmap.org/copyright
+Attribution displayed immediately below the map; keep it when embedding.
+Original Maalausmestari map style using the OpenMapTiles schema; all styling authored for this project.
+Brush symbol uses a CSS mask of the original Maalausmestari logo asset.
+Public project positions are fixed random points within 500 x 500 metre ETRS-TM35FIN (EPSG:3067) cells. Each was checked against OpenFreeMap water polygons and waterways at zooms 12 and 14, with shore and waterway buffers. Checks depend on mapped feature completeness. Exact source addresses and property coordinates are not included in this package. These approximate points are not property locations or a guarantee of anonymity.
+
+Address matching during preparation: Syke / Ryhti open building addresses, 2026-10-22, CC BY 4.0. https://ryhti.syke.fi/palvelut/palvelut-tiedon-hyodyntajille/
+Supplementary preparation geocoding: OpenStreetMap via Photon. Only approximate fixed public points are distributed. Source processing files are not part of this repository or package.
